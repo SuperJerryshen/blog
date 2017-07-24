@@ -2,10 +2,10 @@
 title: JS面向委托的设计模式
 date: 2017-07-24 09:55:28
 categories:
- - 学习记录
+- 学习笔记
 tags:
- - Javascript
- - 设计模式
+- Javascript
+- 设计模式
 type: "tags"
 ---
 

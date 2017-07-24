@@ -1,18 +1,18 @@
 ---
 title: HTML5新标签video
 categories:
-  - 项目
+- 学习笔记
 type: tags
 tags:
-  - Javascript
-  - HTML
+- Javascript
+- HTML
 date: 2017-07-24 19:59:32
 ---
 
 # HTML5新标签`<video>`
 
 ## HTML标签属性
-`<video></video>`标签支持的属性如下表：
+`<video>`标签支持的属性如下表：
 
 | 属性 | 作用 | 值 |
 |:---:|:----:|:-----:|
@@ -28,6 +28,7 @@ date: 2017-07-24 19:59:32
 |crossorigin |是否用到CORS |anonymous/use-credentials |
 |muted |音频的默认设置 |默认false，音乐随视频播放 |
 
+
 需要注意的几个属性：
 ① `preload`：预加载方式。
 * `none`: 提示作者认为用户不需要查看该视频，服务器也想要最小化访问流量；换句话说就是提示浏览器该视频不需要缓存。
@@ -40,7 +41,9 @@ date: 2017-07-24 19:59:32
 * `anonymous`: 跨域请求（即，使用 Origin: 的HTTP头）会被执行。但是不发送凭证（即，不发送cookie， X.509 证书或者 HTTP Basic 授权）。如果服务器不提供证书给源站点 (不设置 Access-Control-Allow-Origin: HTTP头)，图片会被 污染 并且它的使用会受限。
 * `use-credentials`: 跨域请求A cross-origin request (i.e. with Origin: HTTP header) 会被执行，且凭证会被发送 (即， 发送一个 cookie, 一个证书和HTTP Basic授权会被执行)。如果服务器不提供证书给源站点 (通过Access-Control-Allow-Credentials: HTTP 头)，图像会被 污染 且它的使用会受限。
 
+
 > 不加这个属性时，抓取资源不会走CORS请求(即，不会发送`Origin: HTTP`头)，保证其在`<canvas>`元素中使用时不会被污染。如果指定非法值，会被当作指定了枚举关键字`anonymous`一样使用。
+
 
 ③ `buffered`: 这个属性可以读取到哪段时间范围内的媒体被缓存了。该属性包含了一个`TimeRanges`对象。
 
