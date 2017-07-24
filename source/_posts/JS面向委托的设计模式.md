@@ -19,7 +19,7 @@ type: "tags"
 
 Javascript中有一种奇怪的行为一直在被无耻的滥用，那就是模仿类。
 比如如下代码：
-```
+```javascript
 function Foo(name) {
   this.name = name;
 }
@@ -35,7 +35,7 @@ b.myName();  // b
 ```
 以上代码用到了`this`和`prototype`，相信大家都很熟悉，但是我们的Foo函数里并没有`myName`方法，此时就用到了[[prototype]]链，如果`myName`在`a`或者`b`中找不到，就会通过**委托**在Foo.prototype上进行查找。
 下面这段代码使用的就是典型的“原型风格”：
-```
+```javascript
 function Foo(name) {
   this.name = name;
 }
@@ -69,7 +69,7 @@ a.myLabel(); // obj a
 
 委托关联没有用到构造函数，直接通过`Object.create`方法，构建对象之间的关系。
 直接上代码可能会更容易理解，我们就直接改写了上边那个Foo和Bar的例子，代码如下：
-```
+```javascript
 var Foo = {
   initFoo: function (name) {
     this.name = name;
