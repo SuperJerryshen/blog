@@ -58,12 +58,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HTML5新标签-video.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="有关排列组合的一道算法题.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_posts/有关排列组合的一道算法题.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="295">
+                <caret line="37" column="3" lean-forward="true" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
+                <folding>
+                  <marker date="1501000312000" expanded="true" signature="779:972" ph="{...}" />
+                  <marker date="1501000312000" expanded="true" signature="823:914" ph="{...}" />
+                  <marker date="1501000312000" expanded="true" signature="842:864" ph="{...}" />
+                  <marker date="1501000312000" expanded="true" signature="870:910" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HTML5新标签-video.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/HTML5新标签-video.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="171">
-                <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+              <first_editor relative-caret-position="19">
+                <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -113,11 +131,12 @@
         <option value="$PROJECT_DIR$/process.yml" />
         <option value="$PROJECT_DIR$/themes/next/_config.yml" />
         <option value="$PROJECT_DIR$/source/_posts/欢迎来到我的技术博客.md" />
-        <option value="$PROJECT_DIR$/scaffolds/post.md" />
         <option value="$PROJECT_DIR$/source/_posts/HTML5新标签-video.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/source/_posts/JS面向委托的设计模式.md" />
+        <option value="$PROJECT_DIR$/scaffolds/post.md" />
+        <option value="$PROJECT_DIR$/source/_posts/有关排列组合的一道算法题.md" />
       </list>
     </option>
   </component>
@@ -244,24 +263,24 @@
       <workItem from="1500828883729" duration="82000" />
       <workItem from="1500828983307" duration="10000" />
       <workItem from="1500829018569" duration="4853000" />
-      <workItem from="1500912932815" duration="71000" />
+      <workItem from="1500912932815" duration="5100000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21229000" />
+    <option name="totallyTimeSpent" value="26258000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="824" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32921812" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3127572" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -284,7 +303,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/tags/index.md" />
     <entry file="file://$PROJECT_DIR$/source/about/index.md" />
     <entry file="file://$PROJECT_DIR$/themes/next/source/css/_common/components/sidebar/sidebar.styl" />
     <entry file="file://$PROJECT_DIR$/docs/favicon.ico" />
@@ -331,6 +349,7 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="133">
             <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -468,22 +487,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scaffolds/post.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="133">
-            <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/next/_config.yml" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/JS面向委托的设计模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="95">
+            <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            <folding>
+              <marker date="1500912999000" expanded="true" signature="388:411" ph="{...}" />
+              <marker date="1500912999000" expanded="true" signature="447:470" ph="{...}" />
+              <marker date="1500912999000" expanded="true" signature="748:771" ph="{...}" />
+              <marker date="1500912999000" expanded="true" signature="808:831" ph="{...}" />
+              <marker date="1500912999000" expanded="true" signature="859:908" ph="{...}" />
+              <marker date="1500912999000" expanded="true" signature="990:1047" ph="//..." />
+              <marker date="1500912999000" expanded="true" signature="1085:1109" ph="{...}" />
+              <marker date="1500912999000" expanded="true" signature="1390:1499" ph="{...}" />
+              <marker date="1500912999000" expanded="true" signature="1419:1446" ph="{...}" />
+              <marker date="1500912999000" expanded="true" signature="1470:1497" ph="{...}" />
+              <marker date="1500912999000" expanded="true" signature="1589:1636" ph="{...}" />
+              <marker date="1500912999000" expanded="true" signature="1664:1688" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -521,25 +554,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/JS面向委托的设计模式.md">
+    <entry file="file://$PROJECT_DIR$/scaffolds/post.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="95">
-            <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-            <folding>
-              <marker date="1500912999000" expanded="true" signature="388:411" ph="{...}" />
-              <marker date="1500912999000" expanded="true" signature="447:470" ph="{...}" />
-              <marker date="1500912999000" expanded="true" signature="748:771" ph="{...}" />
-              <marker date="1500912999000" expanded="true" signature="808:831" ph="{...}" />
-              <marker date="1500912999000" expanded="true" signature="859:908" ph="{...}" />
-              <marker date="1500912999000" expanded="true" signature="990:1047" ph="//..." />
-              <marker date="1500912999000" expanded="true" signature="1085:1109" ph="{...}" />
-              <marker date="1500912999000" expanded="true" signature="1390:1499" ph="{...}" />
-              <marker date="1500912999000" expanded="true" signature="1419:1446" ph="{...}" />
-              <marker date="1500912999000" expanded="true" signature="1470:1497" ph="{...}" />
-              <marker date="1500912999000" expanded="true" signature="1589:1636" ph="{...}" />
-              <marker date="1500912999000" expanded="true" signature="1664:1688" ph="{...}" />
-            </folding>
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -548,9 +568,25 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/HTML5新标签-video.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="171">
-            <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <first_editor relative-caret-position="19">
+            <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
             <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/有关排列组合的一道算法题.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="295">
+            <caret line="37" column="3" lean-forward="true" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
+            <folding>
+              <marker date="1501000312000" expanded="true" signature="779:972" ph="{...}" />
+              <marker date="1501000312000" expanded="true" signature="823:914" ph="{...}" />
+              <marker date="1501000312000" expanded="true" signature="842:864" ph="{...}" />
+              <marker date="1501000312000" expanded="true" signature="870:910" ph="{...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
