@@ -58,20 +58,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="有关排列组合的一道算法题.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="有关排列组合的一道算法题.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/有关排列组合的一道算法题.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="295">
-                <caret line="37" column="3" lean-forward="true" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
+              <first_editor relative-caret-position="171">
+                <caret line="64" column="0" lean-forward="true" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
                 <folding>
-                  <marker date="1501000312000" expanded="true" signature="779:972" ph="{...}" />
-                  <marker date="1501000312000" expanded="true" signature="823:914" ph="{...}" />
-                  <marker date="1501000312000" expanded="true" signature="842:864" ph="{...}" />
-                  <marker date="1501000312000" expanded="true" signature="870:910" ph="{...}" />
+                  <marker date="1501000522000" expanded="true" signature="779:972" ph="{...}" />
+                  <marker date="1501000522000" expanded="true" signature="823:914" ph="{...}" />
+                  <marker date="1501000522000" expanded="true" signature="842:864" ph="{...}" />
+                  <marker date="1501000522000" expanded="true" signature="870:910" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="87" lean-forward="false" selection-start-line="2" selection-start-column="87" selection-end-line="2" selection-end-column="87" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -127,7 +137,6 @@
         <option value="$PROJECT_DIR$/source/about/index.md" />
         <option value="$PROJECT_DIR$/themes/next/source/css/_common/components/sidebar/sidebar.styl" />
         <option value="$PROJECT_DIR$/source/_posts/Vue全家桶开发的CNode社区单页web应用.md" />
-        <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/process.yml" />
         <option value="$PROJECT_DIR$/themes/next/_config.yml" />
         <option value="$PROJECT_DIR$/source/_posts/欢迎来到我的技术博客.md" />
@@ -137,6 +146,7 @@
         <option value="$PROJECT_DIR$/source/_posts/JS面向委托的设计模式.md" />
         <option value="$PROJECT_DIR$/scaffolds/post.md" />
         <option value="$PROJECT_DIR$/source/_posts/有关排列组合的一道算法题.md" />
+        <option value="$PROJECT_DIR$/app.js" />
       </list>
     </option>
   </component>
@@ -156,7 +166,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="824" />
@@ -183,33 +193,6 @@
             <path>
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="scaffolds" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="next" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -263,18 +246,18 @@
       <workItem from="1500828883729" duration="82000" />
       <workItem from="1500828983307" duration="10000" />
       <workItem from="1500829018569" duration="4853000" />
-      <workItem from="1500912932815" duration="5100000" />
+      <workItem from="1500912932815" duration="5571000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26258000" />
+    <option name="totallyTimeSpent" value="26729000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="824" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="824" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -470,13 +453,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/欢迎来到我的技术博客.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -579,16 +555,24 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/有关排列组合的一道算法题.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="295">
-            <caret line="37" column="3" lean-forward="true" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
+          <first_editor relative-caret-position="171">
+            <caret line="64" column="0" lean-forward="true" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
             <folding>
-              <marker date="1501000312000" expanded="true" signature="779:972" ph="{...}" />
-              <marker date="1501000312000" expanded="true" signature="823:914" ph="{...}" />
-              <marker date="1501000312000" expanded="true" signature="842:864" ph="{...}" />
-              <marker date="1501000312000" expanded="true" signature="870:910" ph="{...}" />
+              <marker date="1501000522000" expanded="true" signature="779:972" ph="{...}" />
+              <marker date="1501000522000" expanded="true" signature="823:914" ph="{...}" />
+              <marker date="1501000522000" expanded="true" signature="842:864" ph="{...}" />
+              <marker date="1501000522000" expanded="true" signature="870:910" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="87" lean-forward="false" selection-start-line="2" selection-start-column="87" selection-end-line="2" selection-end-column="87" />
+          <folding />
         </state>
       </provider>
     </entry>
