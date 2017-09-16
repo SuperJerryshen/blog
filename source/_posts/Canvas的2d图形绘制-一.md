@@ -1,7 +1,7 @@
 ---
 title: Canvas的2d图形绘制(一)
 categories:
-  - 项目
+  - 学习笔记
 type: tags
 tags:
   - Javascript
@@ -96,4 +96,4 @@ div {
   - `shadowBlur`: 表示阴影的高斯模糊值，默认为0。
   - `shadowColor`: 表示阴影的颜色，默认为`rgba(0, 0, 0, 0)`，即完全透明的黑色。
   - `shadowOffsetX`: 阴影在X轴方向的偏移量，以像素为单位，默认为0。
-  - `shadowOffsetY`: 阴影在Y轴方向的偏移量，以像素为单位，默认为0。
+  - `shadowOffsetY`: 阴影在Y轴向的偏移量，以像素为单位，默认为0。
