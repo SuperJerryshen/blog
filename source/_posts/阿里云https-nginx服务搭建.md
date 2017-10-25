@@ -18,29 +18,29 @@ date: 2017-10-25 17:43:09
 
 - 通过控制台进入`CA证书服务`，点击右上角的购买证书，进入如下图的界面，选择免费的`Symantec`的`DV SSL`。
 
-![购买https证书](bug_https_service.png)
+![购买https证书](https://github.com/SuperJerryshen/blog/blob/master/source/_posts/%E9%98%BF%E9%87%8C%E4%BA%91https-nginx%E6%9C%8D%E5%8A%A1%E6%90%AD%E5%BB%BA/buy_https_service.png?raw=true)
 
 - 一路点过去，然后回到证书服务主页，会出现一条订单信息，点击补全，如下图所示。
 
-![证书信息补全](buquan.png)
+![证书信息补全](https://github.com/SuperJerryshen/blog/blob/master/source/_posts/%E9%98%BF%E9%87%8C%E4%BA%91https-nginx%E6%9C%8D%E5%8A%A1%E6%90%AD%E5%BB%BA/buquan.png?raw=true)
 
 - 然后按照要求，首先填写你要申请证书的完整域名（例如www.test.com，因为此证书为单域名，不能使用通配符）；然后填写个人信息，值得注意的是需要勾选下图红圈包围的选项，让验证自动化进行，不用手动操作；然后下一步，完成信息补全，等待几分钟，验证就可以通过。
 
-![个人信息](buquan_2.png)
+![个人信息](https://github.com/SuperJerryshen/blog/blob/master/source/_posts/%E9%98%BF%E9%87%8C%E4%BA%91https-nginx%E6%9C%8D%E5%8A%A1%E6%90%AD%E5%BB%BA/buquan_2.png?raw=true)
 
 ## 添加443端口（https）安全组规则
 - 等待的这个时间，你可以去检查一下你的服务器的安全组配置，看一下是否加入了443端口的链接，防止后面连接不上。创建的新规则如下图。
 
-![添加https安全组](https_config.png)
+![添加https安全组](https://github.com/SuperJerryshen/blog/blob/master/source/_posts/%E9%98%BF%E9%87%8C%E4%BA%91https-nginx%E6%9C%8D%E5%8A%A1%E6%90%AD%E5%BB%BA/https_config.png?raw=true)
 
 ## 下载证书
 - 几分钟后，可以看到下图的状态。
 
-![完成证书签发](auth_complete.png)
+![完成证书签发](https://github.com/SuperJerryshen/blog/blob/master/source/_posts/%E9%98%BF%E9%87%8C%E4%BA%91https-nginx%E6%9C%8D%E5%8A%A1%E6%90%AD%E5%BB%BA/auth_complete.png?raw=true)
 
 - 接着点击下载，进入下图的界面，并点击`下载证书for Nginx`
 
-![下载证书](cert_download.png)
+![下载证书](https://github.com/SuperJerryshen/blog/blob/master/source/_posts/%E9%98%BF%E9%87%8C%E4%BA%91https-nginx%E6%9C%8D%E5%8A%A1%E6%90%AD%E5%BB%BA/cert_download.png?raw=true)
 
 ## 配置`Nginx`服务器
 
