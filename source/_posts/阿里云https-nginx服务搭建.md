@@ -18,29 +18,29 @@ date: 2017-10-25 17:43:09
 
 - 通过控制台进入`CA证书服务`，点击右上角的购买证书，进入如下图的界面，选择免费的`Symantec`的`DV SSL`。
 
-{% asset_img bug_https_service.png 购买https证书 %}
+![购买https证书](/bug_https_service.png)
 
 - 一路点过去，然后回到证书服务主页，会出现一条订单信息，点击补全，如下图所示。
 
-{% asset_img buquan.png 证书信息补全 %}
+![证书信息补全](/buquan.png)
 
 - 然后按照要求，首先填写你要申请证书的完整域名（例如www.test.com，因为此证书为单域名，不能使用通配符）；然后填写个人信息，值得注意的是需要勾选下图红圈包围的选项，让验证自动化进行，不用手动操作；然后下一步，完成信息补全，等待几分钟，验证就可以通过。
 
-{% asset_img buquan_2.png 个人信息 %}
+![个人信息](/buquan_2.png)
 
 ## 添加443端口（https）安全组规则
 - 等待的这个时间，你可以去检查一下你的服务器的安全组配置，看一下是否加入了443端口的链接，防止后面连接不上。创建的新规则如下图。
 
-{% asset_img https_config.png 添加https安全组 %}
+![添加https安全组](/https_config.png)
 
 ## 下载证书
 - 几分钟后，可以看到下图的状态。
 
-{% asset_img auth_complete.png 完成证书签发 %}
+![完成证书签发](/auth_complete.png)
 
 - 接着点击下载，进入下图的界面，并点击`下载证书for Nginx`
 
-{% asset_img cert_download.png 下载证书 %}
+![下载证书](/cert_download.png)
 
 ## 配置`Nginx`服务器
 
